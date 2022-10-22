@@ -1,0 +1,4 @@
+Popescu Iulia-Maria 5078943210904 4 Vanzari 2000
+Stanciu Miruna 4098967831342 1 Vanzari 1900
+Ion Ion-Ion 5078943210903 3 Medicina Veterinara 5000
+Voiculescu Ioana-Daria 1234567891234 0 Manageriere 1300
